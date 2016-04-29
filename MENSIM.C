@@ -1,3 +1,4 @@
+// Author : Shreya Deodhar
 
 #define int8u      unsigned char
 #define int16u     unsigned int
